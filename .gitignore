@@ -2,3 +2,4 @@ node_modules
 public/scripts
 package-lock.json
 apiKey.js
+comments
